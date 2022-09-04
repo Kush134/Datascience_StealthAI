@@ -1,0 +1,26 @@
+.transcript-legal{
+  width: 100%;
+	height: 315px;
+  overflow-y: auto;
+  background: #fafafa;
+  padding: 20px 30px;
+}
+.transcript-legal .item{
+
+}
+.transcript-legal .item .start{
+  margin-bottom: 3px;
+}
+.transcript-legal .item .text{
+  background: #111;
+  color: white;
+  border-radius: 2px 12px 12px 12px;
+  width: fit-content;
+  padding: 6px;
+}
+.dummy-legal{
+  width: 100%;
+	height: 315px;
+	background: url("https://images.pexels.com/photos/48195/document-agreement-documents-sign-48195.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat center;
+	background-size: cover !important;
+}
